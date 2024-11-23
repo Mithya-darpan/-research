@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f99754cd31dfc0d5",
+            "id": "74498d41e810babb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "not caught cases/Hyderabad Woman Scam.md",
+                "file": "JOB  SCAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyderabad Woman Scam"
+              "title": "JOB  SCAM"
             }
           }
         ]
@@ -162,13 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "299b6a5c07ab27ce",
+  "active": "74498d41e810babb",
   "lastOpenFiles": [
+    "not caught cases/Hyderabad Woman Scam.md",
+    "JOB  SCAM.md",
     "How to Capture Scammers in Similar Cases.md",
     "not caught cases/Job Scam.md",
     "not caught cases",
     "caught cases",
-    "Untitled.md",
     "Mithya-darpan.md",
     "README.md"
   ]
