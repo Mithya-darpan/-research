@@ -4,165 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "d62d1694ee056f7f",
+        "id": "38568dc68426bc55",
         "type": "tabs",
         "children": [
           {
-            "id": "74498d41e810babb",
+            "id": "418d320416d5929f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOB  SCAM.md",
+                "file": "Breif Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOB  SCAM"
+              "title": "Breif Content"
             }
           },
           {
-            "id": "00353890758171ed",
+            "id": "31170a356aba4a15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "caught cases/Morphed case.md",
+                "file": "Bitcoin initial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morphed case"
+              "title": "Bitcoin initial"
             }
           },
           {
-            "id": "b731a1eb3a8fd526",
+            "id": "168a7c19c7bc6b0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "caught cases/commisioner scam.md",
+                "file": "Bitcoin scam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commisioner scam"
+              "title": "Bitcoin scam"
             }
           },
           {
-            "id": "47a9e382c72691df",
+            "id": "f39fce46cd3530c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "caught cases/Woman banni  farzi sub inspector.md",
+                "file": "4 scam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Woman banni  farzi sub inspector"
+              "title": "4 scam"
             }
           },
           {
-            "id": "858a0c86adc2408e",
+            "id": "f5f8f0c3b4d75bd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "caught cases/commisioner scam.md",
+                "file": "Hook of Bitcoin scam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commisioner scam"
+              "title": "Hook of Bitcoin scam"
             }
           },
           {
-            "id": "cafb83e0bbde9bee",
+            "id": "f2961ee47de528f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "caught cases/Bitcoin Scam.md",
+                "file": "Bitcoin scam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bitcoin Scam"
+              "title": "Bitcoin scam"
             }
           },
           {
-            "id": "1607a353bf3ee2d4",
+            "id": "1b8cb4bdccb8928b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How did they get caught   1&2.md",
+                "file": "Action taken on bitcoin scam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How did they get caught   1&2"
+              "title": "Action taken on bitcoin scam"
             }
           },
           {
-            "id": "b3ceccbcc5e40947",
+            "id": "540c2da7afa3fe47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How didi they get caught  3&4.md",
+                "file": "Solution of bitcoin scam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How didi they get caught  3&4"
+              "title": "Solution of bitcoin scam"
             }
           },
           {
-            "id": "1a6d3013127f9451",
+            "id": "30ca9fca28b9610c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aghoshit/Hyderabad Woman Scam.md",
+                "file": "Breif Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyderabad Woman Scam"
+              "title": "Breif Content"
             }
           },
           {
-            "id": "6cb166c1af338aed",
+            "id": "1802dbb6ab2635bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aghoshit/Pyaar Ka Chakkar Scam.md",
+                "file": "Breif Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pyaar Ka Chakkar Scam"
-            }
-          },
-          {
-            "id": "f07f4d376aef9fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why they are aghoshit 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why they are aghoshit 3"
+              "title": "Breif Content"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -303,29 +289,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f07f4d376aef9fdb",
+  "active": "1802dbb6ab2635bb",
   "lastOpenFiles": [
-    "Aghoshit/Pyaar Ka Chakkar Scam.md",
-    "Why they are aghoshit 3.md",
-    "Why they are aghoshit 1.md",
-    "Why they are aghoshit 2.md",
-    "Aghoshit/Job Scam.md",
-    "Aghoshit/Hyderabad Woman Scam.md",
-    "How did they get caught 5&6.md",
-    "caught cases/Woman banni  farzi sub inspector.md",
+    "Bitcoin scam.md",
+    "caught cases/Bitcoin scam  vv/Bitcoin Scam full.md",
+    "Breif Content.md",
+    "Solution of bitcoin scam.md",
+    "Action taken on bitcoin scam.md",
+    "Bitcoin initial.md",
+    "Summary of bitcoin scam.md",
+    "Hyderabad Woman Scam.md",
+    "H.md",
+    "4 scam.md",
+    "summary of bitcoin scam.md",
+    "Reason of bitcoin scam.md",
+    "Hook of Bitcoin scam.md",
+    "Untitled 1.md",
     "caught cases/pune case.md",
-    "How didi they get caught  3&4.md",
+    "Aghoshit/Pyaar Ka Chakkar Scam.md",
+    "Aghoshit/Job Scam.md",
+    "Aghoshit/Hyderabad Woman Scam full.md",
     "How to Capture Scammers in Similar Cases.md",
-    "caught cases/Morphed case.md",
-    "caught cases/job scam udipi.md",
-    "How did they get caught   1&2.md",
     "caught cases/commisioner scam.md",
-    "caught cases/Bitcoin Scam.md",
-    "Untitled",
-    "README.md",
-    "JOB  SCAM.md",
+    "caught cases/Woman banni  farzi sub inspector.md",
+    "caught cases/Bitcoin scam  vv",
+    "caught cases/Bitcoin scam  vv/How did they get caught   1&2.md",
+    "How did they get caught  3&4.md",
+    "Why they are aghoshit 3.md",
+    "Why they are aghoshit 2.md",
+    "Why they are aghoshit 1.md",
     "Aghoshit",
-    "caught cases",
-    "Mithya-darpan.md"
+    "caught cases"
   ]
 }

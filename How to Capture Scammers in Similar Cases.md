@@ -1,5 +1,5 @@
 ### case studies:
-1. [[Bitcoin Scam]]
+1. [[Bitcoin Scam full]]
 2. [[Job Scam]]
 3. [[Hyderabad Woman Scam]]
 4. [[Pyaar Ka Chakkar Scam]]
