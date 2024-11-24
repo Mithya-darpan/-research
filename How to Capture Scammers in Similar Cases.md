@@ -3,7 +3,7 @@
 2. [[Job Scam]]
 3. [[Hyderabad Woman Scam]]
 4. [[Pyaar Ka Chakkar Scam]]
-
+5. Abhay Scam
 
 6. **Preserve All Communications**:
    - Save all messages, emails, and screenshots of the scammer’s communications.
