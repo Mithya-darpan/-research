@@ -5,4 +5,5 @@ A woman in **Delhi** received a direct message on **Instagram** offering a **dat
 - **Follow-Up Payment**: The scammer later asked for more money, at which point the woman realized she had been scammed.
 - **Reporting the Incident**: 
   - The woman reported the incident to **Delhi Police**, and the scammer’s **Instagram account** was deactivated.
-  - Unfortunately, no further action was taken, as the scammer had already disappeared with the money.
+  - Unfortunately, no further action was taken, as the scammer had already disappeared with the money
+
